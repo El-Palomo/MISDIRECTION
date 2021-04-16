@@ -36,4 +36,8 @@ Network Distance: 1 hop
 Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 ```
 
+<img src="https://github.com/El-Palomo/MISDIRECTION/blob/main/misdirection1.jpg" width=80% />
+
+
+
 
